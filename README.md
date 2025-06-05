@@ -4,7 +4,8 @@
 **A modern, elegant landing page design built with Next.js, React, and Framer Motion.**  
 Crafted for performance, aesthetics, and simplicity.
 
-![raw-bot-demo]()
+
+![Screenshot 2025-06-05 185021](https://github.com/user-attachments/assets/9c92d919-306e-4cd6-a59a-c03fca5757f4)
 
 ---
 
@@ -22,11 +23,12 @@ Crafted for performance, aesthetics, and simplicity.
 
 ## 📸 Preview
 
-![Landing Page Screenshot](https://your-demo-image-url.com/screenshot.png)
-![Landing Page Screenshot](https://your-demo-image-url.com/screenshot.png)
-![Landing Page Screenshot](https://your-demo-image-url.com/screenshot.png)
-![Landing Page Screenshot](https://your-demo-image-url.com/screenshot.png)
-![Landing Page Screenshot](https://your-demo-image-url.com/screenshot.png)
+![Home-Section](https://github.com/user-attachments/assets/5a05927a-1311-4521-869f-fdd9f73448f2)
+![Why-Section](https://github.com/user-attachments/assets/3fe442e3-6202-4fe8-808f-6d243347deae)
+![Show-case-Section](https://github.com/user-attachments/assets/971efd57-48de-429f-a006-d008e059e428)
+![Footer](https://github.com/user-attachments/assets/a468b221-05bd-4d9a-ba94-93de557123e3)
+
+
 
 ---
 
